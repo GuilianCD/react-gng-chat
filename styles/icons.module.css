@@ -1,0 +1,10 @@
+
+.bananasvg {
+    --size: 10rem;
+
+    width: var(--size);
+    height: var(--size);
+
+    stroke: white;
+    fill: white;
+}

@@ -1,0 +1,11 @@
+
+.aboutList {
+    list-style: circle inside ;
+}
+
+.aboutList a {
+    text-decoration: underline solid white;
+}
+
+
+
