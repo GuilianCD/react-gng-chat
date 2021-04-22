@@ -35,13 +35,11 @@
   padding: 1rem 0;
 
   filter: grayscale(100%) opacity(0.5);
-  transition: all 600ms ease;
+  transition: filter 600ms ease;
 }
 
 .navElement:hover {
   filter: grayscale(0%) opacity(1);
-
-  width: 200%;
 }
 
 .navElement a {
